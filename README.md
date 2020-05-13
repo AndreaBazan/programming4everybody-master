@@ -123,14 +123,14 @@ Our program has 10 lessons, following [Codecademy’s free Ruby track](https://w
 ## Typical session
 
 Group 1 
-- _13h00-13h25_ (GMT+1) **Live session** on [Zoom](https://zoom.us/download) with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _13h00-13h25_ (CDT) **Live session** on [Zoom](https://zoom.us/download) with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
 - _13h25-13h45_ **Q&A session** where you'll be able to ask the teachers any question you might have and share your screen with them for a live help
-- _13h45-?_ **Keep coding!** Use [the Slack workspace](https://programming4everybody.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _13h45-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-para-todos.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
-Group  
-- _19h00-19h25_ (GMT+1) **Live session** on [Zoom](https://zoom.us/download) with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+Group 2
+- _19h00-19h25_ (CDT) **Live session** on [Zoom](https://zoom.us/download) with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
 - _19h25-19h45_ **Q&A session** where you'll be able to ask the teachers any question you might have and share your screen with them for a live help
-- _19h45-?_ **Keep coding!** Use [the Slack workspace](https://programming4everybody.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _19h45-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-para-todos.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
 For each session, a private link to the meeting will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
 
@@ -140,7 +140,7 @@ For each session, a private link to the meeting will be shared on the course Sla
 
 Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/mexico/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 10% off the next Lisbon course tuition**! 🇲🇽 Applications are open for our next batches, check out the dates on our website and [get in touch with our Driver Andrea](https://app.slack.com/client/T0110B1KQP3/D011C474D2P).
+By completing this course, **you get a special 10% off the next Lisbon course tuition**! 🇲🇽 Applications are open for our next batches, check out the dates on our website and [get in touch with our Driver Andrea](https://app.slack.com/client/T012DRTFVGU/D013PDAFJ5S).
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Mexico/), [Eventbrite](https://www.eventbrite.com/o/le-wagon-mexico-coding-bootcamp-17507072625), [Facebook](https://www.facebook.com/lewagonmx) and [Instagram](https://www.instagram.com/lewagonmx), and stay involved in our amazing community 🤩
 
