@@ -1,6 +1,6 @@
 ## Welcome!
 
-This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon](https://www.lewagon.com). Welcome aboard! 🎉
+This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon](https://www.lewagon.com/mexico). Welcome aboard! 🎉
 
 #### ⚠️ IMPORTANT
 
@@ -34,9 +34,9 @@ You'll also find a `test` folder in this repository. **Don't edit or delete any 
 
 You can use a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) to see and interact with the code we share every session.
 
-First, [create an account on Repl.it](https://repl.it/signup). Once logged-in, come back here and click this button 👉 [![Run on Repl.it](https://repl.it/badge/github/lewagonlisbon/programming4everybody)](https://repl.it/@lewagonlisbon/programming4everybody) to open this repository there, then click `fork` to save a copy in your personal REPLs collection.
+First, [create an account on Repl.it](https://repl.it/signup). Once logged-in, come back here and click this button 👉 [![Run on Repl.it](https://repl.it/badge/github/lewagonmx/programming4everybody)](https://repl.it/@lewagonmx/programming4everybody) to open this repository there, then click `fork` to save a copy in your personal REPLs collection.
 
-![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl1.png)
+![](https://github.com/lewagonmx/programming4everybody/raw/master/images/repl1.png)
 
 Now click on the file `README.md` to open it, and... wait a second, that's me! 🤖
 
